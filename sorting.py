@@ -23,7 +23,6 @@ def read_data(file_name):
             iteration = iteration + 1
         return data
 
-
 def main():
     pass
 
